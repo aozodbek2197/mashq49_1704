@@ -1,0 +1,20 @@
+/* 1-mashq */
+div {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
+/* 2-mashq */
+h1 {
+    text-shadow: 2px 2px 5px gray;
+}
+/* 3-mashq */
+body {
+    background: linear-gradient(to right, blue, purple);
+}
+/* 4-mashq */
+img {
+    border-radius: 50%;
+}
+/* 5-mashq */
+div {
+    border: 2px dashed black;
+}
